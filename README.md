@@ -34,6 +34,6 @@ The analysis of the election show that:
     - Denver county which accounted for 82.8% of the vote and 306,055 number of votes. 
 
 The print out of the code shows all the supporting numbers for these results. 
-!Results[Election_Results.png]
+![Results](Election_Results.png)
 
 ## Election-Audit Summary
