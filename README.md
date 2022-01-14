@@ -37,3 +37,4 @@ The print out of the code shows all the supporting numbers for these results.
 ![Results](Election_Results.png)
 
 ## Election-Audit Summary
+This script is very versatile. As written it could accomadate any number of candidates and counties. With a couple updates it could be used to break votes down by different locales, such as cities or neighborhoods. It could be used to analyze the voters by any available demographics such as: age, gender, race, etc.  
